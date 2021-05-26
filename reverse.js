@@ -5,4 +5,4 @@ function reverse(input) {
 return input.split("").reverse().join("");
 
 }
-console.log(input);
+console.log(reverse(input));
